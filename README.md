@@ -8,7 +8,7 @@ I have used the Bank Marketing Dataset from UCI ML Repository [link](https://arc
 
 ### Notebook
 
-Contains snippets of EDA and classification algorithms. The EDA plots can be found in [Plots]() folder.
+Contains snippets of EDA and classification algorithms. The EDA plots can be found in [Plots](https://github.com/ayan-cs/bank-marketing-uciml/tree/main/plots) folder.
 
 The classification algorithms have been trained using different settings of hyperparameters and the best models for each of the classifiers have been retained. Classification algorithms used -
 - Logistic Regression
